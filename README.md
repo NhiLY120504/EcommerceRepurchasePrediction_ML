@@ -22,7 +22,7 @@
 
 ### 2.2 EDA 
 Initial analysis focused on purchase frequency distribution, category popularity trends, and user engagement cycles.
-* [View EDA Notebook](#)
+* [View EDA Notebook](https://github.com/NhiLY120504/EcommerceRepurchasePrediction_ML/blob/main/RepurchasePrediction-CategoryRecommendation_EDA.ipynb)
 
 ### 2.3 Preprocessing & Feature Engineering
 After preprocessing, features are constructed based on: RFM Metrics and Session Behavior.
