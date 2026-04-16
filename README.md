@@ -25,9 +25,11 @@ Initial analysis focused on purchase frequency distribution, category popularity
 * [View](https://github.com/NhiLY120504/EcommerceRepurchasePrediction_ML/blob/main/RepurchasePrediction-CategoryRecommendation_EDA.ipynb)
 
 ### 2.3 Preprocessing & Feature Engineering
-After preprocessing, features are constructed based on: RFM Metrics and Session Behavior.
 * [View](#)
+After preprocessing, features are constructed based on: RFM Metrics and Session Behavior.
+
 ![Target variable construction logic for Task 1](images/task1_target.png)
+
 ![Target variable construction logic for Task 2](images/task2_target.png)
 
 ### 2.4 Model development & Evaluation
