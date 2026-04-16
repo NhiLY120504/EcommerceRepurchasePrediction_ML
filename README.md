@@ -27,7 +27,7 @@ Initial analysis focused on purchase frequency distribution, category popularity
 ### 2.3 Preprocessing & Feature Engineering
 After preprocessing, features are constructed based on: RFM Metrics and Session Behavior.
 
-* [View](#)
+* [View](https://colab.research.google.com/drive/1aNQoM6ruBFFdMywScV6WkksNHkijYSPS?hl=en#scrollTo=-nlk_K74cMLf)
 
 Target variable construction logic for Task 1
 
