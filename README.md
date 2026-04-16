@@ -30,6 +30,7 @@ After preprocessing, features are constructed based on: RFM Metrics and Session 
 * [View](#)
 
 Target variable construction logic for Task 1
+
 ![Target variable construction logic for Task 1](images/task1_target.png)
 
 Target variable construction logic for Task 2
