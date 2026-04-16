@@ -38,8 +38,8 @@ Target variable construction logic for Task 2
 ![Target variable construction logic for Task 2](images/task2_target.png)
 
 ### 2.4 Model development & Evaluation
-* **Task 1 (Binary Classification):** Predicting if a customer will repurchase within 30 days, by implementing a sliding window approach to create the target labels.
-* **Task 2 (Multi-class Classification):** Predicting the specific product category for the next purchase.
+* Task 1 (Binary Classification): Predicting if a customer will repurchase within 30 days, by implementing a sliding window approach to create the target labels.
+* Task 2 (Multi-class Classification): Predicting the specific product category for the next purchase.
 * [View](#)
 
 ---
