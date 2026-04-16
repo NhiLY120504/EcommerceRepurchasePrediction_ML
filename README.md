@@ -42,7 +42,7 @@ Target variable construction logic for Task 2
 
 **Task 2 (Multi-class Classification):** Predicting the specific product category for the next purchase.
 
-* [View](#)
+* [View](https://colab.research.google.com/drive/13GyJJH3fI4l58XQ6pXaM2EMFBxCsGDZ6?hl=en#scrollTo=n-JHVtInRSEF)
 
 ---
 
