@@ -22,16 +22,16 @@
 
 ### 2.2 EDA 
 Initial analysis focused on purchase frequency distribution, category popularity trends, and user engagement cycles.
-* [View EDA Notebook](https://github.com/NhiLY120504/EcommerceRepurchasePrediction_ML/blob/main/RepurchasePrediction-CategoryRecommendation_EDA.ipynb)
+* [View](https://github.com/NhiLY120504/EcommerceRepurchasePrediction_ML/blob/main/RepurchasePrediction-CategoryRecommendation_EDA.ipynb)
 
 ### 2.3 Preprocessing & Feature Engineering
 After preprocessing, features are constructed based on: RFM Metrics and Session Behavior.
-* [View Preprocessing Notebook](#)
+* [View](#)
 
 ### 2.4 Model development & Evaluation
 * **Task 1 (Binary Classification):** Predicting if a customer will repurchase within 30 days, by implementing a sliding window approach to create the target labels.
 * **Task 2 (Multi-class Classification):** Predicting the specific product category for the next purchase.
-* [View Model Development Notebook](#)
+* [View](#)
 
 ---
 
