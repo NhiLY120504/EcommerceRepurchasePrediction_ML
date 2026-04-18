@@ -17,7 +17,7 @@
 ![Execution Workflow](images/workflow.png)
 
 ### 2.1 Data collection
-[Source](https://www.kaggle.com/datasets/bytadit/transactional-ecommerce)
+[Data Source](https://www.kaggle.com/datasets/bytadit/transactional-ecommerce)
 
 ![Data Collection](images/data_collection.png)
 
